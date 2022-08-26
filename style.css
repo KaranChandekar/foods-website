@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600;700;800;900&display=swap");
+
+/* Common Styles  */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  outline: none;
+  font-family: "Nunito", sans-serif;
+}
+
+/* By Default - 1rem == 16px  */
+html {
+  font-size: 62.5%; /* Now 1rem == 10px */
+}
+/* End of Common Styles  */
