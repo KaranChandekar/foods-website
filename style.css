@@ -16,7 +16,7 @@ html {
 }
 
 .section-heading {
-  font-size: 12rem;
+  font-size: 8rem;
   font-weight: 900;
   color: #fff;
   text-align: center;
@@ -29,7 +29,7 @@ html {
 /* Navbar */
 .navbar {
   width: 100%;
-  height: 14rem;
+  height: 10rem;
   background-color: #000;
   position: fixed;
   top: -14rem;
@@ -88,19 +88,19 @@ html {
 }
 
 .navbar-link i {
-  font-size: 7rem;
+  font-size: 5rem;
 }
 
 .navbar-link span {
-  font-size: 2.5rem;
+  font-size: 2rem;
   font-weight: 900;
   letter-spacing: 0.5rem;
   margin-top: 0.5rem;
 }
 
 .menu {
-  width: 4rem;
-  height: 6rem;
+  width: 3rem;
+  height: 4rem;
   background-color: #000;
   position: fixed;
   top: 1rem;
@@ -113,7 +113,7 @@ html {
 }
 
 .menu.change {
-  top: 15rem;
+  top: 11rem;
   transition: top 0.4s;
 }
 
@@ -143,7 +143,7 @@ html {
 }
 
 .section-1-icons i {
-  font-size: 35rem;
+  font-size: 30rem;
   color: #a79a2d;
   position: absolute;
   transform: translate(-50%, -50%) scale(0);
@@ -179,7 +179,7 @@ html {
 }
 
 .card {
-  width: 30rem;
+  width: 25rem;
   background-color: #a79a2d;
   padding: 4rem;
   display: flex;
@@ -364,7 +364,7 @@ html {
 /* Section 4  */
 .section-4 {
   width: 100%;
-  height: 30vh;
+  height: 35vh;
   background-color: #222;
   display: flex;
   justify-content: space-around;
@@ -378,7 +378,7 @@ html {
 }
 
 .section-4-heading {
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 900;
   color: #a79a2d;
 }
