@@ -6,5 +6,5 @@ Fully responsive web design with html, css and javascript. Added nice animations
 ## Demo
 
 
-Uploading Foods - Google Chrome 2022-08-27 18-06-05_Trim.mp4…
+https://user-images.githubusercontent.com/93200960/196488307-397aa78f-a981-4ae2-99c9-741fd5f62f5b.mp4
 
