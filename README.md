@@ -6,6 +6,10 @@ Fully responsive web design with html, css and javascript. Added nice animations
 - CSS
 - JavaScript
 
+## Screenshot
+
+![Screenshot (200)](https://user-images.githubusercontent.com/93200960/215089851-ef51301d-0bb8-420b-96a6-6671a918e3b4.png)
+
 ## Demo
 https://user-images.githubusercontent.com/93200960/196488307-397aa78f-a981-4ae2-99c9-741fd5f62f5b.mp4
 
